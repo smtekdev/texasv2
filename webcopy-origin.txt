@@ -1,0 +1,696 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Black+Han+Sans:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Cinzel:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Merriweather:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.6.1
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/blackhansans/v17/ea8Aad44WunzF9a-dL6toA8r8kqSK3A.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\blackhansans\v17\ea8Aad44WunzF9a-dL6toA8r8kqSK3A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cinzel/v23/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfY3lCA.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\cinzel\v23\8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfY3lCA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cinzel/v23/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfY3lCA.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\cinzel\v23\8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfY3lCA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cinzel/v23/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgfY3lCA.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\cinzel\v23\8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgfY3lCA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cinzel/v23/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gfY3lCA.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\cinzel\v23\8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gfY3lCA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cinzel/v23/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfY3lCA.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\cinzel\v23\8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfY3lCA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cinzel/v23/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnfY3lCA.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\cinzel\v23\8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnfY3lCA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZJ.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\merriweather\v30\u-440qyriQwlOrhSvowK_l5-fCZJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR71Wvf4jvk.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\merriweather\v30\u-4l0qyriQwlOrhSvowK_l5-eR71Wvf4jvk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7lXff4jvk.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\merriweather\v30\u-4l0qyriQwlOrhSvowK_l5-eR7lXff4jvk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7NWPf4jvk.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\merriweather\v30\u-4l0qyriQwlOrhSvowK_l5-eR7NWPf4jvk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4m0qyriQwlOrhSvowK_l5-eRZOf-c.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\merriweather\v30\u-4m0qyriQwlOrhSvowK_l5-eRZOf-c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l521wRZWMf_.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\merriweather\v30\u-4n0qyriQwlOrhSvowK_l521wRZWMf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZWMf_.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\merriweather\v30\u-4n0qyriQwlOrhSvowK_l52xwNZWMf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52_wFZWMf_.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\merriweather\v30\u-4n0qyriQwlOrhSvowK_l52_wFZWMf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\roboto\v32\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\roboto\v32\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\roboto\v32\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\roboto\v32\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://texas2.westcoastanimations.com/
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\index.htm
+Content Type: text/html
+
+Uri: https://texas2.westcoastanimations.com/comments/feed/
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://texas2.westcoastanimations.com/feed/
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/bdthemes-element-pack-lite/assets/css/bdt-uikit.css?ver=3.17.0
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\bdthemes-element-pack-lite\assets\css\bdt-uikit.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/bdthemes-element-pack-lite/assets/css/ep-custom-gallery.css?ver=5.7.5
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\bdthemes-element-pack-lite\assets\css\ep-custom-gallery.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/bdthemes-element-pack-lite/assets/css/ep-font.css?ver=5.7.5
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\bdthemes-element-pack-lite\assets\css\ep-font.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/bdthemes-element-pack-lite/assets/css/ep-helper.css?ver=5.7.5
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\bdthemes-element-pack-lite\assets\css\ep-helper.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/bdthemes-element-pack-lite/assets/fonts/element-pack.svg?8ijr83
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\bdthemes-element-pack-lite\assets\fonts\element-pack.svg
+Content Type: image/svg+xml
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/bdthemes-element-pack-lite/assets/fonts/element-pack.ttf?8ijr83
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\bdthemes-element-pack-lite\assets\fonts\element-pack.ttf
+Content Type: font/ttf
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/bdthemes-element-pack-lite/assets/fonts/element-pack.woff2?8ijr83
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\bdthemes-element-pack-lite\assets\fonts\element-pack.woff2
+Content Type: font/woff2
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/bdthemes-element-pack-lite/assets/fonts/element-pack.woff?8ijr83
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\bdthemes-element-pack-lite\assets\fonts\element-pack.woff
+Content Type: font/woff
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/bdthemes-element-pack-lite/assets/images/loading.svg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\bdthemes-element-pack-lite\assets\images\loading.svg
+Content Type: image/svg+xml
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/bdthemes-element-pack-lite/assets/js/bdt-uikit.min.js?ver=3.17.0
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\bdthemes-element-pack-lite\assets\js\bdt-uikit.min.js
+Content Type: text/javascript
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/bdthemes-element-pack-lite/assets/js/common/helper.min.js?ver=5.7.5
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\bdthemes-element-pack-lite\assets\js\common\helper.min.js
+Content Type: text/javascript
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/bdthemes-element-pack-lite/assets/js/modules/ep-custom-gallery.min.js?ver=5.7.5
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\bdthemes-element-pack-lite\assets\js\modules\ep-custom-gallery.min.js
+Content Type: text/javascript
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/bdthemes-element-pack-lite/assets/vendor/js/vanilla-tilt.min.js
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\bdthemes-element-pack-lite\assets\vendor\js\vanilla-tilt.min.js
+Content Type: text/javascript
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.16.2
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor-pro\assets\css\widget-carousel.min.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor-pro\assets\css\widget-nav-menu.min.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: text/javascript
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: text/javascript
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.16.4
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: text/javascript
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.16.4
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.23.0
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.23.0
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.23.0
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.23.0
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.23.0
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: text/javascript
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\css\view\general.min.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=6.0.1
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\js\view\general.min.js
+Content Type: text/javascript
+
+Uri: https://texas2.westcoastanimations.com/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.8.0
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\themes\astra\assets\css\minified\main.min.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.8.0
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/07433284b8.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\07433284b8.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/0f2d830839.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\0f2d830839.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/260nw-2147140935-ezgif.com-webp-to-jpg-converter.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\260nw-2147140935-ezgif.com-webp-to-jpg-converter.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/308Winchester.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\308Winchester.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/308_Winchester_FMJSP.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\308_Winchester_FMJSP.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/3c5c36b07e.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\3c5c36b07e.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/9mm-pistol-bullets-black-table_1004691-4553-1.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\9mm-pistol-bullets-black-table_1004691-4553-1.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/9mm-pistol-bullets-black-table_1004691-4553.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\9mm-pistol-bullets-black-table_1004691-4553.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/automatic-firearms-with-bullets-black-pistol-with-cartridges-table-weapons-concrete-background_72464-1943-300x200.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\automatic-firearms-with-bullets-black-pistol-with-cartridges-table-weapons-concrete-background_72464-1943-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/automatic-firearms-with-bullets-black-pistol-with-cartridges-table-weapons-concrete-background_72464-1943-768x512.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\automatic-firearms-with-bullets-black-pistol-with-cartridges-table-weapons-concrete-background_72464-1943-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/automatic-firearms-with-bullets-black-pistol-with-cartridges-table-weapons-concrete-background_72464-1943.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\automatic-firearms-with-bullets-black-pistol-with-cartridges-table-weapons-concrete-background_72464-1943.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/banner-army.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\banner-army.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/BG-1-1.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\BG-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/bullet-9mm-dark-stone-table-rounds-military-technology_524876-1694.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\bullet-9mm-dark-stone-table-rounds-military-technology_524876-1694.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/bullets-wooden-background_392895-561082.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\bullets-wooden-background_392895-561082.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/bunch-bullets-with-brown-background-some-brown-bottom_908344-23600.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\bunch-bullets-with-brown-background-some-brown-bottom_908344-23600.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/Emblem_of_the_United_States_Marine_Corps__1_-removebg-preview-300x293.png
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\Emblem_of_the_United_States_Marine_Corps__1_-removebg-preview-300x293.png
+Content Type: image/png
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/Emblem_of_the_United_States_Marine_Corps__1_-removebg-preview.png
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\Emblem_of_the_United_States_Marine_Corps__1_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/firearm-target-and-person-training-outdoor-at-shoo-46FNTHR.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\firearm-target-and-person-training-outdoor-at-shoo-46FNTHR.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/full-frame-shot-metal_1048944-15435181-transformed.jpeg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\full-frame-shot-metal_1048944-15435181-transformed.jpeg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/handsome-man-posing-with-scarf_23-2148803591.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\handsome-man-posing-with-scarf_23-2148803591.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/handsome-young-male-posing-with-modern-hat_23-2148466038.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\handsome-young-male-posing-with-modern-hat_23-2148466038.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/HD-wallpaper-ammunition-belt-300x169.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\HD-wallpaper-ammunition-belt-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/HD-wallpaper-ammunition-belt-768x433.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\HD-wallpaper-ammunition-belt-768x433.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/HD-wallpaper-ammunition-belt.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\HD-wallpaper-ammunition-belt.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/images-removebg-preview-150x150.png
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\images-removebg-preview-150x150.png
+Content Type: image/png
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/images-removebg-preview.png
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\images-removebg-preview.png
+Content Type: image/png
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/LOGO-01-150x150.png
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\LOGO-01-150x150.png
+Content Type: image/png
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/LOGO-01-300x296.png
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\LOGO-01-300x296.png
+Content Type: image/png
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/LOGO-01-768x758.png
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\LOGO-01-768x758.png
+Content Type: image/png
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/LOGO-01.png
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\LOGO-01.png
+Content Type: image/png
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/main-qimg-5e430dd452ff6c5f17d735e2df05fb80-lq.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\main-qimg-5e430dd452ff6c5f17d735e2df05fb80-lq.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/Mark_of_the_United_States_Air_Force.svg-1-150x150.png
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\Mark_of_the_United_States_Air_Force.svg-1-150x150.png
+Content Type: image/png
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/Mark_of_the_United_States_Air_Force.svg-1-300x300.png
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\Mark_of_the_United_States_Air_Force.svg-1-300x300.png
+Content Type: image/png
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/Mark_of_the_United_States_Air_Force.svg-1-768x768.png
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\Mark_of_the_United_States_Air_Force.svg-1-768x768.png
+Content Type: image/png
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/Mark_of_the_United_States_Air_Force.svg-1.png
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\Mark_of_the_United_States_Air_Force.svg-1.png
+Content Type: image/png
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/photo-1598390367635-55152e31ec07.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\photo-1598390367635-55152e31ec07.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/PMC-Bronze-9mm-ammo-ezgif.com-webp-to-jpg-converter.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\PMC-Bronze-9mm-ammo-ezgif.com-webp-to-jpg-converter.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/removal.ai_a4ee693b-44ca-4266-b6e2-ffcea88e0584_7-74072_bullet-png-image-9mm-bullet-png-transparent-png.png
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\removal.ai_a4ee693b-44ca-4266-b6e2-ffcea88e0584_7-74072_bullet-png-image-9mm-bullet-png-transparent-png.png
+Content Type: image/png
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/sniper-shooting-a-firearm-with-a-riflescope-NV89CLW-2-233x300.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\sniper-shooting-a-firearm-with-a-riflescope-NV89CLW-2-233x300.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/sniper-shooting-a-firearm-with-a-riflescope-NV89CLW-2.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\sniper-shooting-a-firearm-with-a-riflescope-NV89CLW-2.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/UNE4E3S-150x150.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\UNE4E3S-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/UNE4E3S-300x300.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\UNE4E3S-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/UNE4E3S-768x768.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\UNE4E3S-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/UNE4E3S.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\UNE4E3S.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/usa_coast_guards-removebg-preview-150x150.png
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\usa_coast_guards-removebg-preview-150x150.png
+Content Type: image/png
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/usa_coast_guards-removebg-preview-300x300.png
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\usa_coast_guards-removebg-preview-300x300.png
+Content Type: image/png
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/usa_coast_guards-removebg-preview.png
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\usa_coast_guards-removebg-preview.png
+Content Type: image/png
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/usnavy-150x150.png
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\usnavy-150x150.png
+Content Type: image/png
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/usnavy-300x300.png
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\usnavy-300x300.png
+Content Type: image/png
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/usnavy.png
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\usnavy.png
+Content Type: image/png
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/weapons-and-military-equipment-for-army-assault-ri-N55CGKY-1-1.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\weapons-and-military-equipment-for-army-assault-ri-N55CGKY-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/2024/08/weapons-and-military-equipment-for-army-assault-ri-N55CGKY.jpg
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\2024\08\weapons-and-military-equipment-for-army-assault-ri-N55CGKY.jpg
+Content Type: image/jpeg
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/elementor/css/global.css?ver=1724514012
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/elementor/css/post-11.css?ver=1724956870
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\elementor\css\post-11.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/elementor/css/post-22.css?ver=1724514013
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\elementor\css\post-22.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/elementor/css/post-550.css?ver=1724859471
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\elementor\css\post-550.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-content/uploads/elementor/css/post-7.css?ver=1724514011
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-includes/css/dist/block-library/style.min.css?ver=6.6.1
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://texas2.westcoastanimations.com/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://texas2.westcoastanimations.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://texas2.westcoastanimations.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-includes\js\imagesloaded.min.js
+Content Type: text/javascript
+
+Uri: https://texas2.westcoastanimations.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://texas2.westcoastanimations.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://texas2.westcoastanimations.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: https://texas2.westcoastanimations.com/wp-json/
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://texas2.westcoastanimations.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftexas2.westcoastanimations.com%2F
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://texas2.westcoastanimations.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftexas2.westcoastanimations.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://texas2.westcoastanimations.com/wp-json/wp/v2/pages/11
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\wp-json\wp\v2\pages\11
+Content Type: application/json
+
+Uri: https://texas2.westcoastanimations.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\texas2.westcoastanimations.com\xmlrpc.php
+Content Type: text/xml
+

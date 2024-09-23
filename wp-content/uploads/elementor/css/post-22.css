@@ -1,0 +1,24 @@
+.elementor-22 .elementor-element.elementor-element-e070715{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--background-transition:0.3s;--padding-block-start:0px;--padding-block-end:0px;--padding-inline-start:0px;--padding-inline-end:0px;--z-index:1;}.elementor-22 .elementor-element.elementor-element-e070715, .elementor-22 .elementor-element.elementor-element-e070715::before{--border-transition:0.3s;}.elementor-22 .elementor-element.elementor-element-9d56637{--display:flex;--background-transition:0.3s;--padding-block-start:0px;--padding-block-end:0px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-22 .elementor-element.elementor-element-163a669 img{width:65%;}.elementor-22 .elementor-element.elementor-element-163a669{width:var( --container-widget-width, 53.356% );max-width:53.356%;--container-widget-width:53.356%;--container-widget-flex-grow:0;}.elementor-22 .elementor-element.elementor-element-163a669.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-22 .elementor-element.elementor-element-d4d6312{--display:flex;--justify-content:center;--background-transition:0.3s;--padding-block-start:0px;--padding-block-end:0px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-22 .elementor-element.elementor-element-7402a1d .elementor-menu-toggle{margin:0 auto;}.elementor-22 .elementor-element.elementor-element-7402a1d .elementor-nav-menu .elementor-item{font-family:"Black Han Sans", Sans-serif;font-size:15px;font-weight:300;letter-spacing:1.2px;}.elementor-22 .elementor-element.elementor-element-7402a1d .elementor-nav-menu--main .elementor-item{color:#FFFFFF;fill:#FFFFFF;}.elementor-22 .elementor-element.elementor-element-7402a1d .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-22 .elementor-element.elementor-element-7402a1d .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-22 .elementor-element.elementor-element-7402a1d .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-22 .elementor-element.elementor-element-7402a1d .elementor-nav-menu--main .elementor-item:focus{color:#AA092B;fill:#AA092B;}.elementor-22 .elementor-element.elementor-element-7402a1d .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+					.elementor-22 .elementor-element.elementor-element-7402a1d .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:#AA092B;}.elementor-22 .elementor-element.elementor-element-7402a1d .e--pointer-framed .elementor-item:before,
+					.elementor-22 .elementor-element.elementor-element-7402a1d .e--pointer-framed .elementor-item:after{border-color:#AA092B;}.elementor-22 .elementor-element.elementor-element-7402a1d .e--pointer-framed .elementor-item:before{border-width:2px;}.elementor-22 .elementor-element.elementor-element-7402a1d .e--pointer-framed.e--animation-draw .elementor-item:before{border-width:0 0 2px 2px;}.elementor-22 .elementor-element.elementor-element-7402a1d .e--pointer-framed.e--animation-draw .elementor-item:after{border-width:2px 2px 0 0;}.elementor-22 .elementor-element.elementor-element-7402a1d .e--pointer-framed.e--animation-corners .elementor-item:before{border-width:2px 0 0 2px;}.elementor-22 .elementor-element.elementor-element-7402a1d .e--pointer-framed.e--animation-corners .elementor-item:after{border-width:0 2px 2px 0;}.elementor-22 .elementor-element.elementor-element-7402a1d .e--pointer-underline .elementor-item:after,
+					 .elementor-22 .elementor-element.elementor-element-7402a1d .e--pointer-overline .elementor-item:before,
+					 .elementor-22 .elementor-element.elementor-element-7402a1d .e--pointer-double-line .elementor-item:before,
+					 .elementor-22 .elementor-element.elementor-element-7402a1d .e--pointer-double-line .elementor-item:after{height:2px;}@media(max-width:767px){.elementor-22 .elementor-element.elementor-element-163a669.elementor-element{--align-self:center;}}@media(min-width:768px){.elementor-22 .elementor-element.elementor-element-9d56637{--width:30%;}.elementor-22 .elementor-element.elementor-element-d4d6312{--width:70%;}}/* Start custom CSS for theme-site-logo, class: .elementor-element-163a669 */.elementor-22 .elementor-element.elementor-element-163a669 {
+    animation: spin 10s linear infinite
+
+}
+@keyframes spin {
+   
+
+0% {
+    transform: rotate(0);
+}
+100% {
+    transform: rotate(360deg);
+}
+    
+    
+}/* End custom CSS */
